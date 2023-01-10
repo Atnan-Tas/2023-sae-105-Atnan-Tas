@@ -1,0 +1,17 @@
+@import url(./layouts/header.css);
+@import url(./vendors/normalize.css);
+@import url(./layouts/footer.css);
+@import url(./layouts/carrousel.css);
+@import url(./base/main.css);
+@import url(./base/media.css);
+@import url(./components/menu.css);
+
+/* font-family: 'Itim', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+/* font-family: 'Inter', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+
+
+
